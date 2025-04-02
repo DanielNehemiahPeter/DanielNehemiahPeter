@@ -7,7 +7,7 @@
 🔍 Uncovering hidden trends & making data-driven magic happen<br/>
 ☁️ Playing with the cloud (AWS, Snowflake, Redshift)<br/>
 🎯 Always optimizing, always learning – let's connect!<br/>
-📌 Find me on LinkedIn:[LinkedIn](www.linkedin.com/in/daniel-nehemiah-peter-katam-b515a1210)
+📌 Find me on LinkedIn:[LinkedIn](www.linkedin.com/in/daniel-nehemiah-peter-katam)
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWFieGEzcG1tMGlqeDVpazRvOTVidDNobnFnczFzMnJyb2h2NHBvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.gif" alt="Animated Work on Computer GIF" />
